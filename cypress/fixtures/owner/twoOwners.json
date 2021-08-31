@@ -1,0 +1,33 @@
+[
+    {
+        "id": 77,
+        "firstName": "Max",
+        "lastName": "Nov",
+        "address": "Shevchenko str.",
+        "city": "Zhytomyr",
+        "telephone": "0999999999",
+        "pets": 
+      [
+          {
+            "id": 367,
+            "name": "fdfs",
+            "birthDate": "2021/08/16",
+            "type": {
+              "id": 97,
+              "name": "horse"
+            },
+            "owner": 77,
+            "visits": []
+          }
+        ]
+      },
+      {
+        "id": 324,
+        "firstName": "Max",
+        "lastName": "Novit",
+        "address": "Shewchenko",
+        "city": "Kyiv",
+        "telephone": "999999999",
+        "pets": []
+      }
+]

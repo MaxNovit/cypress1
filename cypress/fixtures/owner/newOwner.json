@@ -1,0 +1,11 @@
+[
+    {
+        "id": 324,
+        "firstName": "Max",
+        "lastName": "Novit",
+        "address": "Shewchenko",
+        "city": "Kyiv",
+        "telephone": "999999999",
+        "pets": []
+      }
+    ]
